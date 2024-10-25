@@ -1,0 +1,603 @@
+OnsetTime1,TimeStamp1,Text1,Language1,Speaker1,OnesetTime2,TimeStamp2,Text2,Language2,Speaker2,Absolute_onset_time_difference,TimeStamp_difference,Text_difference_word_count,text_difference,language_difference,Speaker_difference
+00:00,00:00 - 00:07,"作为测试监督者,我们希望您记住一些注意事项,以保证结果的准确性。",zh,SPEAKER_04,00:00,00:00 - 00:07,"作为测试监督者,我们希望您记住一些注意事项,以保证结果的准确性。",zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+00:07,00:07 - 00:08,,,,00:07,00:07 - 00:08,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+00:08,00:08 - 00:11,请不要更正您孩子的答案,zh,SPEAKER_04,00:08,00:08 - 00:11,请不要更正您孩子的答案,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+00:11,00:11 - 00:12,,,,00:11,00:11 - 00:12,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+00:12,00:12 - 00:17,"例如,如果您的孩子指向錯誤的圖片,請不要更正他的選擇。",zh,SPEAKER_04,00:12,00:12 - 00:17,"例如,如果您的孩子指向錯誤的圖片,請不要更正他的選擇。",zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+00:17,00:17 - 00:18,,,,00:17,00:17 - 00:18,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+00:18,00:18 - 00:22,如果您的孩子在操作电脑时需要帮助,zh,SPEAKER_04,00:18,00:18 - 00:22,如果您的孩子在操作电脑时需要帮助,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+00:22,00:22 - 00:23,请帮助他操作,zh,SPEAKER_04,00:22,00:22 - 00:23,请帮助他操作,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+00:23,00:23 - 00:25,,,,00:23,00:23 - 00:25,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+00:25,00:25 - 00:30,"例如,如果他们在点击操作中遇到困难,你可以帮助他们点击",zh,SPEAKER_04,00:25,00:25 - 00:30,"例如,如果他们在点击操作中遇到困难,你可以帮助他们点击",zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+00:30,00:30 - 00:31,,,,00:30,00:30 - 00:31,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+00:31,00:31 - 00:34,请不要重复测试中播放的音频,zh,SPEAKER_04,00:31,00:31 - 00:34,请不要重复测试中播放的音频,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+00:34,00:34 - 00:35,,,,00:34,00:34 - 00:35,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+00:35,00:35 - 00:42,"例如,如果您的孩子不知道答案,请不要重复问题或问题中的某些词语。",zh,SPEAKER_04,00:35,00:35 - 00:42,"例如,如果您的孩子不知道答案,请不要重复问题或问题中的某些词语。",zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+00:42,00:42 - 00:46,请不要告诉您的孩子他的选择是否正确,zh,SPEAKER_04,00:42,00:42 - 00:46,请不要告诉您的孩子他的选择是否正确,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+00:46,00:46 - 00:47,,,,00:46,00:46 - 00:47,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+00:47,00:47 - 00:52,"例如,请不要在您的孩子完成选择后点头或者摇头",zh,SPEAKER_04,00:47,00:47 - 00:52,"例如,请不要在您的孩子完成选择后点头或者摇头",zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+00:52,00:52 - 00:53,,,,00:52,00:52 - 00:53,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+00:53,00:53 - 00:55,每隔三至五道题后,zh,SPEAKER_04,00:53,00:53 - 00:55,每隔三至五道题后,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+00:55,00:55 - 00:57,您可以对孩子进行鼓励,zh,SPEAKER_04,00:55,00:55 - 00:57,您可以对孩子进行鼓励,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+00:57,00:57 - 00:58,,,,00:57,00:57 - 00:58,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+00:58,00:58 - 01:02,"您可以說,你做得很棒,要繼續保持哦!",zh,SPEAKER_04,00:58,00:58 - 01:02,"您可以說,你做得很棒,要繼續保持哦!",zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+01:02,01:02 - 01:04,"或者,你聽得很認真,真棒!",zh,SPEAKER_04,01:02,01:02 - 01:04,"或者,你聽得很認真,真棒!",zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+01:04,01:04 - 01:05,,,,01:04,01:04 - 01:05,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+01:05,01:05 - 01:08,如果您的孩子不确定该选什么,zh,SPEAKER_04,01:05,01:05 - 01:08,如果您的孩子不确定该选什么,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+01:08,01:08 - 01:10,您可以鼓勵他們猜一個答案,zh,SPEAKER_04,01:08,01:08 - 01:10,您可以鼓勵他們猜一個答案,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+01:10,01:10 - 01:11,,,,01:10,01:10 - 01:11,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+01:11,01:11 - 01:13,如果您的孩子快要完成测试了,zh,SPEAKER_04,01:11,01:11 - 01:13,如果您的孩子快要完成测试了,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+01:13,01:13 - 01:16,您可以说只剩几个题目了,zh,SPEAKER_04,01:13,01:13 - 01:16,您可以说只剩几个题目了,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+01:16,01:16 - 01:17,让我们继续吧,zh,SPEAKER_04,01:16,01:16 - 01:17,让我们继续吧,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+01:17,01:17 - 01:17,加油,zh,SPEAKER_04,01:17,01:17 - 01:17,加油,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+01:17,01:17 - 01:19,,,,01:17,01:17 - 01:19,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+01:19,01:19 - 01:24,下面我们需要检查一下您是否已经清楚所有的规则,zh,SPEAKER_04,01:19,01:19 - 01:24,下面我们需要检查一下您是否已经清楚所有的规则,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+01:24,01:24 - 01:25,然后就可以开始测试了,zh,SPEAKER_04,01:24,01:24 - 01:25,然后就可以开始测试了,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+01:25,01:25 - 01:26,,,,01:25,01:25 - 01:26,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+01:26,01:26 - 01:28,请向下滑回答一些问题,zh,SPEAKER_04,01:26,01:26 - 01:28,请向下滑回答一些问题,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+01:28,01:28 - 01:30,,,,01:28,01:28 - 01:30,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+01:30,01:30 - 01:32,"好的,您现在有什么问题吗?",zh,SPEAKER_09,01:30,01:30 - 01:33,"好的,您现在有什么问题吗?",zh,Speaker 4 Experimenter,No difference,00:00:01,0,FALSE,FALSE,TRUE
+01:32,01:32 - 01:34,,,,01:33,01:33 - 01:34,没有,zh,Speaker 3 Parent,00:01,00:00:01,2,TRUE,TRUE,TRUE
+01:34,01:34 - 01:37,好 那我们想请您来帮我们回答一些问题,zh,SPEAKER_09,01:34,01:34 - 01:37,好 那我们想请您来帮我们回答一些问题,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+01:37,01:37 - 01:38,,,,01:37,01:37 - 01:38,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+01:38,01:38 - 01:38,자,ko,SPEAKER_09,01:38,01:38 - 01:38,,,,No difference,00:00:00,0,TRUE,FALSE,FALSE
+01:38,01:38 - 01:39,,,,01:38,01:38 - 01:39,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+01:39,01:39 - 01:39,Thank you.,en,SPEAKER_09,01:39,01:39 - 01:39,,,,No difference,00:00:00,2,TRUE,FALSE,FALSE
+01:39,01:39 - 01:40,,,,01:39,01:39 - 01:40,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+01:40,01:40 - 01:41,Welcome to macola.,en,SPEAKER_09,01:40,01:40 - 01:41,Welcome to macola.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+01:41,01:41 - 01:44,,,,01:41,01:41 - 01:44,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+01:44,01:44 - 01:48,"好,那我现在跟您share screen,我们来一起看一下这些问题",zh,SPEAKER_09,01:44,01:44 - 01:48,"好,那我现在跟您share screen,我们来一起看一下这些问题",en + zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+01:48,01:48 - 01:49,,,,01:48,01:48 - 01:49,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+01:49,01:49 - 01:50,Mm-hmm.,en,SPEAKER_00,01:49,01:49 - 01:50,嗯，好,zh,Speaker 3 Parent,No difference,00:00:00,4,TRUE,TRUE,TRUE
+01:50,01:50 - 01:52,,,,01:50,01:50 - 01:52,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+01:52,01:52 - 01:54,I will give you remote control.,en,SPEAKER_09,01:52,01:52 - 01:54,好，我会给您 remote control.,en + zh,Speaker 4 Experimenter,No difference,00:00:00,9,TRUE,TRUE,TRUE
+01:54,01:54 - 01:55,,,,01:54,01:54 - 01:55,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+01:55,01:55 - 02:00,"您可以在这里来完成一下这些问题,您用手点就可以了。",zh,SPEAKER_09,01:55,01:55 - 02:00,"您可以在这里来完成一下这些问题,您用手点就可以了。",zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+02:00,02:00 - 02:03,,,,02:00,02:00 - 02:03,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+02:03,02:03 - 02:03,這次我剛進院,zh,SPEAKER_03,02:03,02:03 - 02:03,测试的房间是否安静没有干扰,zh,Speaker 3 Parent,No difference,00:00:00,7,TRUE,FALSE,TRUE
+02:03,02:03 - 02:09,,,,02:03,02:03 - 02:09,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+02:09,02:09 - 02:10,"哎呀,我們點不了了",zh,SPEAKER_03,02:09,02:09 - 02:10,"哎呀,我們點不了了",zh,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+02:10,02:10 - 02:11,,,,02:10,02:10 - 02:11,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+02:11,02:11 - 02:12,Come on.,en,SPEAKER_09,02:11,02:11 - 02:12,是吗,zh,Speaker 4 Experimenter,No difference,00:00:00,4,TRUE,TRUE,TRUE
+02:12,02:12 - 02:14,,,,02:12,02:12 - 02:14,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+02:14,02:14 - 02:15,您先点一下,zh,SPEAKER_09,02:14,02:14 - 02:15,那您先 您先点一下,zh,Speaker 4 Experimenter,No difference,00:00:00,3,TRUE,FALSE,TRUE
+02:15,02:15 - 02:16,,,,02:15,02:15 - 02:16,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+02:16,02:16 - 02:18,就是您点屏幕没有反应吗,zh,SPEAKER_09,02:16,02:16 - 02:19,就是您点屏幕没有反应吗,zh,Speaker 4 Experimenter,No difference,00:00:01,0,FALSE,FALSE,TRUE
+02:18,02:18 - 02:21,,,,02:19,02:19 - 02:21,嗯,zh,Speaker 3 Parent,00:01,00:00:01,1,TRUE,TRUE,TRUE
+02:21,02:21 - 02:22,你現在怎麼想呢,zh,SPEAKER_09,02:21,02:21 - 02:22,您現在点一下呢,zh,Speaker 4 Experimenter,No difference,00:00:00,0,TRUE,FALSE,TRUE
+02:22,02:22 - 02:24,,,,02:22,02:22 - 02:24,,,,No difference,00:00:00,0,FALSE,FALSE,FALSE
+02:24,02:24 - 02:25,"Oh, how cool.",en,SPEAKER_07,02:24,02:24 - 02:25,"speaker 4：噢，好了
+speaker 3: 啊可以了",zh,Speaker 5 Multiple Speakers,No difference,00:00:00,8,TRUE,TRUE,TRUE
+02:25,02:25 - 02:28,,,,02:25,02:25 - 02:28,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+02:28,02:28 - 02:28,(children laughing),en,SPEAKER_08,02:28,02:28 - 02:28,(children laughing),,Speaker 6 Others,No difference,00:00:00,0,FALSE,FALSE,TRUE
+02:28,02:28 - 02:38,,,,02:28,02:28 - 02:38,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+02:38,02:38 - 02:41,下面这个问题请您就点试就可以了,zh,SPEAKER_09,02:38,02:38 - 02:41,然后下面这个问题请您就点是就可以了,zh,Speaker 3 Parent,No difference,00:00:00,2,TRUE,FALSE,TRUE
+02:41,02:41 - 02:45,,,,02:41,02:41 - 02:45,好,zh,Speaker 4 Experimenter,No difference,00:00:00,1,TRUE,TRUE,TRUE
+02:45,02:45 - 02:47,"如果您的癌症不周围,您也可以更加盛好",zh,SPEAKER_07,02:45,02:45 - 02:47,如果您的孩子不知道问题您可以帮他们重复吗,zh,Speaker 3 Parent,No difference,00:00:00,3,TRUE,FALSE,TRUE
+02:47,02:47 - 02:49,,,,02:47,02:47 - 02:49,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+02:49,02:49 - 02:49,[music playing],en,SPEAKER_08,02:49,02:49 - 02:49,[music playing],,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+02:49,02:49 - 02:58,,,,02:49,02:49 - 02:58,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+02:58,02:58 - 03:01,然後想請您再看一下倒數第三道題,zh,SPEAKER_09,02:58,02:58 - 03:01,然後想請您再看一下倒數第三道題,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+03:01,03:01 - 03:03,,,,03:01,03:01 - 03:03,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+03:03,03:03 - 03:04,Lo suficienta.,es,SPEAKER_03,03:03,03:03 - 03:04,倒数第三道,zh,Speaker 4 Experimenter,No difference,00:00:00,7,TRUE,TRUE,TRUE
+03:04,03:04 - 03:06,一會兒上看看台子不張望,zh,SPEAKER_03,03:04,03:04 - 03:08,如果您的孩子不知道问题你可以帮他重复问题吗,zh,Speaker 4 Experimenter,No difference,00:00:02,10,TRUE,FALSE,TRUE
+03:06,03:06 - 03:09,,,,03:08,03:08 - 03:09,不可以,zh,Speaker 3 Parent,00:02,00:00:02,3,TRUE,TRUE,TRUE
+03:09,03:09 - 03:10,"嗯,對,好,謝謝",zh,SPEAKER_09,03:09,03:09 - 03:10,"嗯,對,好,謝謝",zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+03:10,03:10 - 03:12,,,,03:10,03:10 - 03:12,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+03:12,03:12 - 03:14,下面就可以請ryan加入啦,zh,SPEAKER_09,03:12,03:12 - 03:15,好，那下面就可以請ryan加入啦,en + zh,Speaker 4 Experimenter,No difference,00:00:01,2,TRUE,TRUE,TRUE
+03:14,03:14 - 03:17,,,,03:15,03:15 - 03:17,好的,zh,Speaker 3 Parent,00:01,00:00:01,2,TRUE,TRUE,TRUE
+03:17,03:17 - 03:18,開始,zh,SPEAKER_03,03:17,03:17 - 03:18,開始,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+03:18,03:18 - 03:19,,,,03:18,03:18 - 03:19,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+03:19,03:19 - 03:19,Ryan!,en,SPEAKER_09,03:19,03:19 - 03:19,Ryan!,en,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+03:19,03:19 - 03:21,,,,03:19,03:19 - 03:21,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+03:21,03:21 - 03:21,到你了,zh,SPEAKER_02,03:21,03:21 - 03:21,到你了,zh,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+03:21,03:21 - 03:24,,,,03:21,03:21 - 03:24,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+03:24,03:24 - 03:25,Down you go.,en,SPEAKER_02,03:24,03:24 - 03:25,到你咯,zh,Speaker 3 Parent,No difference,00:00:00,6,TRUE,TRUE,TRUE
+03:25,03:25 - 03:28,,,,03:25,03:25 - 03:28,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+03:28,03:28 - 03:28,(speaking in foreign language),en,SPEAKER_02,03:28,03:28 - 03:28,你在哪里,zh,Speaker 3 Parent,No difference,00:00:00,8,TRUE,TRUE,TRUE
+03:28,03:28 - 03:34,,,,03:28,03:28 - 03:34,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+03:34,03:34 - 03:34,[blank_audio],en,SPEAKER_03,03:34,03:34 - 03:34,我已经完成我的,zh,Speaker 3 Parent,No difference,00:00:00,7,TRUE,TRUE,TRUE
+03:34,03:34 - 03:35,,,,03:34,03:34 - 03:35,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+03:35,03:35 - 03:36,Only.,en,SPEAKER_09,03:35,03:35 - 03:36,到你了,zh,Speaker 3 Parent,No difference,00:00:00,4,TRUE,TRUE,TRUE
+03:36,03:36 - 03:39,,,,03:36,03:36 - 03:36,,,,Absolute time difference:,00:00:03,Text difference word count:,FALSE,FALSE,FALSE
+03:39,03:39 - 03:39,"薇菈,好嗎?",zh,SPEAKER_09,03:36,03:36 - 03:39,"Ryan,我来跟你玩游戏了好嗎?",en + zh,Speaker 4 Experimenter,00:03,00:00:03,7,TRUE,TRUE,TRUE
+03:39,03:39 - 03:43,,,,03:39,03:39 - 03:43,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+03:43,03:43 - 03:43,Oh.,en,SPEAKER_09,03:43,03:43 - 03:43,好,zh,Speaker 3 Parent,No difference,00:00:00,2,TRUE,TRUE,TRUE
+03:43,03:43 - 03:44,,,,03:43,03:43 - 03:44,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+03:44,03:44 - 03:44,你準備好了沒有,zh,SPEAKER_09,03:44,03:44 - 03:44,你準備好了沒有,zh,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+03:44,03:44 - 03:45,好了沒有,zh,SPEAKER_02,03:44,03:44 - 03:45,,,,No difference,00:00:00,4,TRUE,FALSE,FALSE
+03:45,03:45 - 03:51,"Ryan, can i ask you if you have a virtual background?",en,SPEAKER_09,03:45,03:45 - 03:53,"Ryan, 我能不能，Ryan，我能不能请你，啊，你有在开virtual background是吗",en + zh,Speaker 4 Experimenter,No difference,00:00:02,24,TRUE,TRUE,TRUE
+03:51,03:51 - 03:58,,,,03:53,03:53 - 03:58,有吗,zh,Speaker 4 Experimenter,00:02,00:00:02,2,TRUE,TRUE,TRUE
+03:58,03:58 - 03:59,是什麼你問的老師,zh,SPEAKER_09,03:58,03:58 - 03:59,是什麼你問老師啊,zh,Speaker 3 Parent,No difference,00:00:00,0,TRUE,FALSE,TRUE
+03:59,03:59 - 04:00,,,,03:59,03:59 - 04:00,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+04:00,04:00 - 04:00,This is not,en,SPEAKER_09,04:00,04:00 - 04:00,是什么,zh,Speaker 2 Child,No difference,00:00:00,6,TRUE,TRUE,TRUE
+04:00,04:00 - 04:01,,,,04:00,04:00 - 04:01,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+04:01,04:01 - 04:07,"好,我想請問你背後那些藍色的圈圈和線是你們家的嗎?",zh,SPEAKER_09,04:01,04:01 - 04:07,"噢，就是,我想請問你背後那些藍色的圈圈和線是你們家的嗎?",zh,Speaker 4 Experimenter,No difference,00:00:00,2,TRUE,FALSE,TRUE
+04:07,04:07 - 04:10,,,,04:07,04:07 - 04:10,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+04:10,04:10 - 04:12,蠻色圈圈和線,zh,SPEAKER_09,04:10,04:10 - 04:12,蓝色圈圈和線,zh,Speaker 3 Parent,No difference,00:00:00,0,TRUE,FALSE,TRUE
+04:12,04:12 - 04:16,,,,04:12,04:12 - 04:16,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+04:16,04:16 - 04:16,好,zh,SPEAKER_09,04:16,04:16 - 04:16,好,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+04:16,04:16 - 04:17,,,,04:16,04:16 - 04:17,在哪啊,zh,Speaker 3 Parent,No difference,00:00:00,3,TRUE,TRUE,TRUE
+04:17,04:17 - 04:20,"那没关系,因为...",zh,SPEAKER_09,04:17,04:17 - 04:20,"那没关系,因为...",zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+04:20,04:20 - 04:21,"哦,那个是我们自己弄的",zh,SPEAKER_09,04:20,04:20 - 04:21,"哦,那个是我们自己弄的",zh,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+04:21,04:21 - 04:22,"哦,你们自己弄的",zh,SPEAKER_09,04:21,04:21 - 04:22,"哦,你们自己弄的",zh,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+04:22,04:22 - 04:24,,,,04:22,04:22 - 04:24,好，好的,zh,Speaker 4 Experimenter,No difference,00:00:00,3,TRUE,TRUE,TRUE
+04:24,04:24 - 04:26,我以為是三開那內心的背景,zh,SPEAKER_09,04:24,04:24 - 04:26,我以為开了那虚拟背景,zh,Speaker 4 Experimenter,No difference,00:00:00,2,TRUE,FALSE,TRUE
+04:26,04:26 - 04:27,好,zh,SPEAKER_09,04:26,04:26 - 04:27,嗯,zh,Speaker 4 Experimenter,No difference,00:00:00,0,TRUE,FALSE,TRUE
+04:27,04:27 - 04:27,好,zh,SPEAKER_07,04:27,04:27 - 04:27,好,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+04:27,04:27 - 04:28,[blank_audio],en,SPEAKER_07,04:27,04:27 - 04:28,,,,No difference,00:00:00,0,TRUE,FALSE,FALSE
+04:28,04:28 - 04:30,那個背景是你自己加的對不對,zh,SPEAKER_09,04:28,04:28 - 04:30,那個background是你自己加的對不對,en + zh,Speaker 3 Parent,No difference,00:00:00,3,TRUE,TRUE,TRUE
+04:30,04:30 - 04:31,嗯嗯,zh,SPEAKER_09,04:30,04:30 - 04:31,嗯嗯,zh,Speaker 2 Child,No difference,00:00:00,0,FALSE,FALSE,TRUE
+04:31,04:31 - 04:40,"好的,那下面的话,ryan你想要先开始玩英文游戏还是先开始玩中文游戏呢?",zh,SPEAKER_09,04:31,04:31 - 04:40,"好的,那下面的话,ryan你想要先开始玩英文游戏还是先开始玩中文游戏呢?",zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+04:40,04:40 - 04:41,,,,04:40,04:40 - 04:41,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+04:41,04:41 - 04:42,Mm...e1,en,SPEAKER_09,04:41,04:41 - 04:42,嗯 英文,zh,Speaker 2 Child,No difference,00:00:00,4,TRUE,TRUE,TRUE
+04:42,04:42 - 04:46,"好,那请你在ipad上点击开始英文测试",zh,SPEAKER_09,04:42,04:42 - 04:46,"好,那请你在ipad上点击开始英文测试",en + zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,TRUE,TRUE
+04:46,04:46 - 04:55,,,,04:46,04:46 - 04:55,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+04:55,04:55 - 04:56,為什麼點擊不了呢,zh,SPEAKER_03,04:55,04:55 - 04:56,為什麼點擊不了呢,zh,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+04:56,04:56 - 04:57,,,,04:56,04:56 - 04:57,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+04:57,04:57 - 04:59,剛剛已經刻意掉了,zh,SPEAKER_09,04:57,04:57 - 04:59,剛剛已經刻意掉了,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+04:59,04:59 - 05:00,可能您在,zh,SPEAKER_09,04:59,04:59 - 05:00,可能您在,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+05:00,05:00 - 05:02,Throw me a club.,en,SPEAKER_09,05:00,05:00 - 05:02,在 在在那个,zh,Speaker 4 Experimenter,No difference,00:00:00,9,TRUE,TRUE,TRUE
+05:02,05:02 - 05:03,,,,05:02,05:02 - 05:03,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+05:03,05:03 - 05:05,Ipad上点一些别的东西,zh,SPEAKER_09,05:03,05:03 - 05:05,Ipad上点一些别的东西,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+05:05,05:05 - 05:15,,,,05:05,05:05 - 05:15,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+05:15,05:15 - 05:16,Saya pm m3,id,SPEAKER_07,05:15,05:15 - 05:16,可以了吗,zh,Speaker 4 Experimenter,No difference,00:00:00,6,TRUE,TRUE,TRUE
+05:16,05:16 - 05:17,,,,05:16,05:16 - 05:17,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+05:17,05:17 - 05:17,Okay.,en,SPEAKER_07,05:17,05:17 - 05:17,不可以,zh,Speaker 1 System,No difference,00:00:00,4,TRUE,TRUE,TRUE
+05:17,05:17 - 05:19,,,,05:17,05:17 - 05:19,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+05:19,05:19 - 05:20,[blank_audio],en,SPEAKER_09,05:19,05:19 - 05:20,[blank_audio],,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+05:20,05:20 - 05:23,,,,05:20,05:20 - 05:23,ryan你的手拿开,en + zh,Speaker 3 Parent,No difference,00:00:00,6,TRUE,TRUE,TRUE
+05:23,05:23 - 05:24,"So, maybe...",en,SPEAKER_09,05:23,05:23 - 05:24,没，不可以,zh,Speaker 3 Parent,No difference,00:00:00,6,TRUE,TRUE,TRUE
+05:24,05:24 - 05:25,,,,05:24,05:24 - 05:25,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+05:25,05:25 - 05:27,"哦,你還記得剛剛是怎麼可以點的",zh,SPEAKER_09,05:25,05:25 - 05:27,"哦,你還記得剛剛是怎麼可以點的吗",zh,Speaker 4 Experimenter,No difference,00:00:00,1,TRUE,FALSE,TRUE
+05:27,05:27 - 05:34,,,,05:27,05:27 - 05:34,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+05:34,05:34 - 05:35,我剛剛也是這麼點的呀,zh,SPEAKER_09,05:34,05:34 - 05:35,我剛剛也是這麼點的呀,zh,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+05:35,05:35 - 05:36,,,,05:35,05:35 - 05:36,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+05:36,05:36 - 05:39,那要不我再跟您分享一次吧,zh,SPEAKER_09,05:36,05:36 - 05:39,那要不我再跟您share一次吧,en + zh,Speaker 4 Experimenter,No difference,00:00:00,3,TRUE,TRUE,TRUE
+05:39,05:39 - 05:39,我先,zh,SPEAKER_09,05:39,05:39 - 05:39,我先,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+05:39,05:39 - 05:40,,,,05:39,05:39 - 05:40,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+05:40,05:40 - 05:41,[blank_audio],en,SPEAKER_09,05:40,05:40 - 05:41,[blank_audio],,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+05:41,05:41 - 05:44,"I'm gonna do a board first, then you.",en,SPEAKER_09,05:41,05:41 - 05:44,我先board然后再跟您,en + zh,Speaker 4 Experimenter,No difference,00:00:00,15,TRUE,TRUE,TRUE
+05:44,05:44 - 05:45,,,,05:44,05:44 - 05:45,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+05:45,05:45 - 05:47,"好,您再试一下吧",zh,SPEAKER_09,05:45,05:45 - 05:47,"好,您再试一下吧",zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+05:47,05:47 - 05:48,,,,05:47,05:47 - 05:48,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+05:48,05:48 - 05:50,哦好这样可以哦好了,zh,SPEAKER_09,05:48,05:48 - 05:50,哦好这样可以哦好了,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+05:50,05:50 - 05:52,,,,05:50,05:50 - 05:52,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+05:52,05:52 - 05:56,这里请您输入rv007,zh,SPEAKER_09,05:52,05:52 - 05:56,这里请您输入v007,en + zh,Speaker 4 Experimenter,No difference,00:00:00,0,TRUE,TRUE,TRUE
+05:56,05:56 - 05:59,,,,05:56,05:56 - 05:59,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+05:59,05:59 - 06:00,(singing in foreign language),en,SPEAKER_03,05:59,05:59 - 06:00,v007,zh,Speaker 3 Parent,No difference,00:00:00,4,TRUE,TRUE,TRUE
+06:00,06:00 - 06:02,,,,06:00,06:00 - 06:02,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+06:02,06:02 - 06:04,尿尿洗一下,zh,SPEAKER_03,06:02,06:02 - 06:04,那要那要写一下,zh,Speaker 3 Parent,No difference,00:00:00,2,TRUE,FALSE,TRUE
+06:04,06:04 - 06:05,,,,06:04,06:04 - 06:05,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+06:05,06:05 - 06:06,把那個打開,zh,SPEAKER_03,06:05,06:05 - 06:06,把那個打開,zh,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+06:06,06:06 - 06:08,,,,06:06,06:06 - 06:08,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+06:08,06:08 - 06:08,Be,en,SPEAKER_03,06:08,06:08 - 06:08,v,zh,Speaker 4 Experimenter,No difference,00:00:00,0,TRUE,TRUE,TRUE
+06:08,06:08 - 06:23,,,,06:08,06:08 - 06:23,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+06:23,06:23 - 06:24,Ehh?,en,SPEAKER_07,06:23,06:23 - 06:24,Ehh?,en,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+06:24,06:24 - 06:25,,,,06:24,06:24 - 06:25,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+06:25,06:25 - 06:26,"Wait, just a little while",ml,SPEAKER_07,06:25,06:25 - 06:26,等一下，写不了,zh,Speaker 3 Parent,No difference,00:00:00,11,TRUE,TRUE,TRUE
+06:26,06:26 - 06:32,,,,06:26,06:26 - 06:32,写不了吗,zh,Speaker 4 Experimenter,No difference,00:00:00,4,TRUE,TRUE,TRUE
+06:32,06:32 - 06:36,"那写不了,那这样我来写吧,然后再给你们那个",zh,SPEAKER_09,06:32,06:32 - 06:37,"那写不了,那这样我来写吧,然后再给你们那个",zh,Speaker 4 Experimenter,No difference,00:00:01,0,FALSE,FALSE,TRUE
+06:36,06:36 - 06:40,,,,06:37,06:37 - 06:40,嗯,zh,Speaker 3 Parent,00:01,00:00:01,1,TRUE,TRUE,TRUE
+06:40,06:40 - 06:44,"好,那我再上桌,再给您看看",zh,SPEAKER_09,06:40,06:40 - 06:44,"好,那我再aboard,再给您control",en + zh,Speaker 4 Experimenter,No difference,00:00:00,6,TRUE,TRUE,TRUE
+06:44,06:44 - 06:47,,,,06:44,06:44 - 06:47,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+06:47,06:47 - 06:47,[blank_audio],en,SPEAKER_09,06:47,06:47 - 06:46,,,,No difference,00:00:01,0,TRUE,FALSE,FALSE
+06:47,06:47 - 06:48,,,,06:46,06:46 - 06:48,好，现在,zh,Speaker 4 Experimenter,00:01,00:00:01,3,TRUE,TRUE,TRUE
+06:48,06:48 - 06:49,就點一個繼續,zh,SPEAKER_07,06:48,06:48 - 06:49,请您试着点那个繼續,zh,Speaker 4 Experimenter,No difference,00:00:00,3,TRUE,FALSE,TRUE
+06:49,06:49 - 06:50,,,,06:49,06:49 - 06:50,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+06:50,06:50 - 06:50,Okay.,en,SPEAKER_07,06:50,06:50 - 06:50,Okay.,en,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+06:50,06:50 - 06:57,,,,06:50,06:50 - 06:57,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+06:57,06:57 - 06:57,Thank you.,en,SPEAKER_01,06:57,06:57 - 06:57,ryan come，快,en + zh,Speaker 3 Parent,No difference,00:00:00,1,TRUE,TRUE,TRUE
+06:57,06:57 - 06:58,,,,06:57,06:57 - 06:58,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+06:58,06:58 - 06:59,Welcome!,en,SPEAKER_01,06:58,06:58 - 06:59,Welcome!,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+06:59,06:59 - 07:03,You will hear some sentences and you will find the right picture.,en,SPEAKER_01,06:59,06:59 - 07:03,You will hear some sentences and you will find the right picture.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+07:03,07:03 - 07:04,,,,07:03,07:03 - 07:04,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+07:04,07:04 - 07:05,Let's try it out.,en,SPEAKER_01,07:04,07:04 - 07:05,Let's try it out.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+07:05,07:05 - 07:06,Are you ready?,en,SPEAKER_01,07:05,07:05 - 07:06,Are you ready?,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+07:06,07:06 - 07:08,,,,07:06,07:06 - 07:08,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+07:08,07:08 - 07:10,The picture is on the bed.,en,SPEAKER_01,07:08,07:08 - 07:10,The picture is on the bed.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+07:10,07:10 - 07:12,,,,07:10,07:10 - 07:12,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+07:12,07:12 - 07:13,溫澤滴完了,zh,SPEAKER_07,07:12,07:12 - 07:13,unclear,,Speaker 6 Others,No difference,00:00:00,6,TRUE,FALSE,TRUE
+07:13,07:13 - 07:20,,,,07:13,07:13 - 07:20,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+07:20,07:20 - 07:22,The blue snake is eating apples.,en,SPEAKER_01,07:20,07:20 - 07:22,The blue snake is eating apples.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+07:22,07:22 - 07:34,,,,07:22,07:22 - 07:34,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+07:34,07:34 - 07:35,Keep it up!,en,SPEAKER_01,07:34,07:34 - 07:35,Keep it up!,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+07:35,07:35 - 07:36,Let's do some more.,en,SPEAKER_01,07:35,07:35 - 07:36,Let's do some more.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+07:36,07:36 - 07:37,,,,07:36,07:36 - 07:37,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+07:37,07:37 - 07:39,Press the start button to keep going.,en,SPEAKER_01,07:37,07:37 - 07:39,Press the start button to keep going.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+07:39,07:39 - 07:44,,,,07:39,07:39 - 07:44,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+07:44,07:44 - 07:46,The girl has the apples.,en,SPEAKER_01,07:44,07:44 - 07:46,The girl has the apples.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+07:46,07:46 - 07:55,,,,07:46,07:46 - 07:55,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+07:55,07:55 - 07:57,The farmer has the pumpkin.,en,SPEAKER_01,07:55,07:55 - 07:57,The farmer has the pumpkin.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+07:57,07:57 - 08:14,,,,07:57,07:57 - 08:14,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+08:14,08:14 - 08:16,The farmer has the pumpkin.,en,SPEAKER_01,08:14,08:14 - 08:16,The farmer has the pumpkin.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+08:16,08:16 - 08:24,,,,08:16,08:16 - 08:24,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+08:24,08:24 - 08:25,[blank_audio],en,SPEAKER_07,08:24,08:24 - 08:25,[blank_audio],,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+08:25,08:25 - 08:26,,,,08:25,08:25 - 08:26,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+08:26,08:26 - 08:26,[blank_audio],en,SPEAKER_07,08:26,08:26 - 08:26,[blank_audio],,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+08:26,08:26 - 08:27,,,,08:26,08:26 - 08:27,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+08:27,08:27 - 08:29,你再點一下可以嗎,zh,SPEAKER_09,08:27,08:27 - 08:31,你再點一下可以嗎,zh,Speaker 4 Experimenter,No difference,00:00:02,0,FALSE,FALSE,TRUE
+08:29,08:29 - 08:34,,,,08:31,08:31 - 08:34,好,zh,Speaker 4 Experimenter,00:02,00:00:02,1,TRUE,TRUE,TRUE
+08:34,08:34 - 08:36,The girl makes the cakes.,en,SPEAKER_01,08:34,08:34 - 08:36,The girl makes the cakes.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+08:36,08:36 - 08:44,,,,08:36,08:36 - 08:44,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+08:44,08:44 - 08:45,The cat plays with the ball.,en,SPEAKER_01,08:44,08:44 - 08:45,The cat plays with the ball.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+08:45,08:45 - 08:53,,,,08:45,08:45 - 08:53,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+08:53,08:53 - 08:55,The squirrel has the flowers.,en,SPEAKER_01,08:53,08:53 - 08:55,The squirrel has the flowers.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+08:55,08:55 - 09:04,,,,08:55,08:55 - 09:04,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+09:04,09:04 - 09:06,The duck has the leaf.,en,SPEAKER_01,09:04,09:04 - 09:06,The duck has the leaf.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+09:06,09:06 - 09:14,,,,09:06,09:06 - 09:14,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+09:14,09:14 - 09:16,The horse eats the carrots.,en,SPEAKER_01,09:14,09:14 - 09:16,The horse eats the carrots.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+09:16,09:16 - 09:24,,,,09:16,09:16 - 09:24,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+09:24,09:24 - 09:26,The fox points at the tree.,en,SPEAKER_01,09:24,09:24 - 09:26,The fox points at the tree.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+09:26,09:26 - 09:36,,,,09:26,09:26 - 09:36,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+09:36,09:36 - 09:39,You're doing such a good job that puppy gets some snacks.,en,SPEAKER_01,09:36,09:36 - 09:39,You're doing such a good job that puppy gets some snacks.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+09:39,09:39 - 09:40,,,,09:39,09:39 - 09:40,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+09:40,09:40 - 09:42,Let's keep going so he can get some more.,en,SPEAKER_01,09:40,09:40 - 09:42,Let's keep going so he can get some more.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+09:42,09:42 - 09:43,Are you ready?,en,SPEAKER_01,09:42,09:42 - 09:43,Are you ready?,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+09:43,09:43 - 09:46,,,,09:43,09:43 - 09:46,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+09:46,09:46 - 09:47,Okay.,en,SPEAKER_08,09:46,09:46 - 09:47,Okay.,en,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+09:47,09:47 - 09:52,,,,09:47,09:47 - 09:52,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+09:52,09:52 - 09:54,The corn is between the bottles.,en,SPEAKER_01,09:52,09:52 - 09:54,The corn is between the bottles.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+09:54,09:54 - 10:05,,,,09:54,09:54 - 10:05,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+10:05,10:05 - 10:07,The elephant is behind the fence.,en,SPEAKER_01,10:05,10:05 - 10:07,The elephant is behind the fence.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+10:07,10:07 - 10:14,,,,10:07,10:07 - 10:14,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+10:14,10:14 - 10:14,(child laughing),en,SPEAKER_08,10:14,10:14 - 10:14,(child laughing),,Speaker 6 Others,No difference,00:00:00,0,FALSE,FALSE,TRUE
+10:14,10:14 - 10:23,,,,10:14,10:14 - 10:23,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+10:23,10:23 - 10:25,The flower is under the table.,en,SPEAKER_01,10:23,10:23 - 10:25,The flower is under the table.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+10:25,10:25 - 10:37,,,,10:25,10:25 - 10:37,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+10:37,10:37 - 10:39,The rabbit is next to the basket.,en,SPEAKER_01,10:37,10:37 - 10:39,The rabbit is next to the basket.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+10:39,10:39 - 10:51,,,,10:39,10:39 - 10:51,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+10:51,10:51 - 10:52,All turtles are biting a stick.,en,SPEAKER_01,10:51,10:51 - 10:52,All turtles are biting a stick.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+10:52,10:52 - 11:04,,,,10:52,10:52 - 11:04,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+11:04,11:04 - 11:06,All girls are kissing a flower.,en,SPEAKER_01,11:04,11:04 - 11:06,All girls are kissing a flower.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+11:06,11:06 - 11:17,,,,11:06,11:06 - 11:17,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+11:17,11:17 - 11:19,All horses are pulling a wagon.,en,SPEAKER_01,11:17,11:17 - 11:19,All horses are pulling a wagon.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+11:19,11:19 - 11:27,,,,11:19,11:19 - 11:27,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+11:27,11:27 - 11:29,All squirrels are digging a hole.,en,SPEAKER_01,11:27,11:27 - 11:29,All squirrels are digging a hole.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+11:29,11:29 - 11:41,,,,11:29,11:29 - 11:41,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+11:41,11:41 - 11:43,Some frogs are holding an apple.,en,SPEAKER_01,11:41,11:41 - 11:43,Some frogs are holding an apple.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+11:43,11:43 - 11:51,,,,11:43,11:43 - 11:51,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+11:51,11:51 - 11:54,Some boys are carrying a bucket.,en,SPEAKER_01,11:51,11:51 - 11:54,Some boys are carrying a bucket.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+11:54,11:54 - 12:02,,,,11:54,11:54 - 12:02,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+12:02,12:02 - 12:04,Some animals are scratching the tree.,en,SPEAKER_01,12:02,12:02 - 12:04,Some animals are scratching the tree.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+12:04,12:04 - 12:15,,,,12:04,12:04 - 12:15,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+12:15,12:15 - 12:17,Some animals are running a race.,en,SPEAKER_01,12:15,12:15 - 12:17,Some animals are running a race.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+12:17,12:17 - 12:23,,,,12:17,12:17 - 12:23,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+12:23,12:23 - 12:28,"You just passed halfway, and puppy's getting excited about all his food.",en,SPEAKER_01,12:23,12:23 - 12:28,"You just passed halfway, and puppy's getting excited about all his food.",en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+12:28,12:28 - 12:29,,,,12:28,12:28 - 12:29,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+12:29,12:29 - 12:32,"But that's not all. if we keep going, he'll get even more.",en,SPEAKER_01,12:29,12:29 - 12:32,"But that's not all. if we keep going, he'll get even more.",en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+12:32,12:32 - 12:33,,,,12:32,12:32 - 12:33,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+12:33,12:33 - 12:33,Ready?,en,SPEAKER_01,12:33,12:33 - 12:33,Ready?,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+12:33,12:33 - 12:41,,,,12:33,12:33 - 12:41,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+12:41,12:41 - 12:44,The man is pushed by the woman.,en,SPEAKER_01,12:41,12:41 - 12:44,The man is pushed by the woman.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+12:44,12:44 - 12:54,,,,12:44,12:44 - 12:54,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+12:54,12:54 - 12:56,The chicken is hugged by the penguin.,en,SPEAKER_01,12:54,12:54 - 12:56,The chicken is hugged by the penguin.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+12:56,12:56 - 13:06,,,,12:56,12:56 - 13:06,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+13:06,13:06 - 13:08,The girl is kissed by the boy.,en,SPEAKER_01,13:06,13:06 - 13:08,The girl is kissed by the boy.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+13:08,13:08 - 13:16,,,,13:08,13:08 - 13:16,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+13:16,13:16 - 13:18,The elephant is tickled by the bird.,en,SPEAKER_01,13:16,13:16 - 13:18,The elephant is tickled by the bird.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+13:18,13:18 - 13:29,,,,13:18,13:18 - 13:29,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+13:29,13:29 - 13:31,The sheep is carried by the dinosaur.,en,SPEAKER_01,13:29,13:29 - 13:31,The sheep is carried by the dinosaur.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+13:31,13:31 - 13:42,,,,13:31,13:31 - 13:42,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+13:42,13:42 - 13:44,The turtle is poked by the bird.,en,SPEAKER_01,13:42,13:42 - 13:44,The turtle is poked by the bird.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+13:44,13:44 - 13:56,,,,13:44,13:44 - 13:56,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+13:56,13:56 - 13:58,The boy is kicked by the monkey.,en,SPEAKER_01,13:56,13:56 - 13:58,The boy is kicked by the monkey.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+13:58,13:58 - 14:08,,,,13:58,13:58 - 14:08,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+14:08,14:08 - 14:09,The cat is licked by the rabbit.,en,SPEAKER_00,14:08,14:08 - 14:09,The cat is licked by the rabbit.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+14:09,14:09 - 14:26,,,,14:09,14:09 - 14:26,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+14:26,14:26 - 14:27,Thank you.,en,SPEAKER_03,14:26,14:26 - 14:27,点击,zh,Speaker 3 Parent,No difference,00:00:00,4,TRUE,TRUE,TRUE
+14:27,14:27 - 14:28,Licked by the rabbit.,en,SPEAKER_00,14:27,14:27 - 14:28,The cat is licked by the rabbit.,en,Speaker 1 System,No difference,00:00:00,3,TRUE,FALSE,TRUE
+14:28,14:28 - 14:32,,,,14:28,14:28 - 14:32,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+14:32,14:32 - 14:33,我們剪輯不良,zh,SPEAKER_03,14:32,14:32 - 14:33,我們点击不了,zh,Speaker 3 Parent,No difference,00:00:00,0,TRUE,FALSE,TRUE
+14:33,14:33 - 14:34,,,,14:33,14:33 - 14:34,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+14:34,14:34 - 14:35,点不了吗,zh,SPEAKER_03,14:34,14:34 - 14:35,点不了吗,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+14:35,14:35 - 14:40,,,,14:35,14:35 - 14:40,对,zh,Speaker 3 Parent,No difference,00:00:00,1,TRUE,TRUE,TRUE
+14:40,14:40 - 14:40,[blank_audio],en,SPEAKER_07,14:40,14:40 - 14:40,,,,No difference,00:00:00,0,TRUE,FALSE,FALSE
+14:40,14:40 - 14:43,,,,14:40,14:40 - 14:43,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+14:43,14:43 - 14:44,[blank_audio],en,SPEAKER_07,14:43,14:43 - 14:44,[blank_audio],,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+14:44,14:44 - 14:47,,,,14:44,14:44 - 14:47,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+14:47,14:47 - 14:48,好 再試一下好嗎,zh,SPEAKER_09,14:47,14:47 - 14:48,好 再試一下好嗎,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+14:48,14:48 - 14:49,,,,14:48,14:48 - 14:49,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+14:49,14:49 - 14:53,"如果可以点的话,请先点一下那个",zh,SPEAKER_09,14:49,14:49 - 14:53,"如果可以点的话,请先点一下那个",zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+14:53,14:53 - 14:54,อ๋อ ฮะ,th,SPEAKER_09,14:53,14:53 - 14:54,哦 好,zh,Speaker 4 Experimenter,No difference,00:00:00,2,TRUE,TRUE,TRUE
+14:54,14:54 - 14:55,可以点吗,zh,SPEAKER_09,14:54,14:54 - 14:55,可以点吗,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+14:55,14:55 - 14:56,,,,14:55,14:55 - 14:56,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+14:56,14:56 - 14:56,可以,zh,SPEAKER_09,14:56,14:56 - 14:56,可以,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+14:56,14:56 - 14:58,,,,14:56,14:56 - 14:58,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+14:58,14:58 - 15:02,"好,先請你點綠色的按鈕,先開始播放,好嗎?",zh,SPEAKER_09,14:58,14:58 - 15:06,"好,先請你點那个綠色的按鈕,先開始播放,好嗎?",zh,Speaker 4 Experimenter,No difference,00:00:04,2,TRUE,FALSE,TRUE
+15:02,15:02 - 15:07,,,,15:06,15:06 - 15:07,好,zh,Speaker 4 Experimenter,00:04,00:00:04,1,TRUE,TRUE,TRUE
+15:07,15:07 - 15:07,然後你,zh,SPEAKER_01,15:07,15:07 - 15:07,然後你，好,zh,Speaker 4 Experimenter,No difference,00:00:00,1,TRUE,FALSE,TRUE
+15:07,15:07 - 15:11,,,,15:07,15:07 - 15:11,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+15:11,15:11 - 15:15,"You're getting so close to the end, only eight more sentences.",en,SPEAKER_01,15:11,15:11 - 15:15,"You're getting so close to the end, only eight more sentences.",en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+15:15,15:15 - 15:16,,,,15:15,15:15 - 15:16,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+15:16,15:16 - 15:17,Puppy's getting ready to get eating.,en,SPEAKER_01,15:16,15:16 - 15:17,Puppy's getting ready to get eating.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+15:17,15:17 - 15:18,,,,15:17,15:17 - 15:18,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+15:18,15:18 - 15:20,"But you can get him more food, right?",en,SPEAKER_01,15:18,15:18 - 15:20,"But you can get him more food, right?",en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+15:20,15:20 - 15:21,,,,15:20,15:20 - 15:21,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+15:21,15:21 - 15:22,Let's finish up.,en,SPEAKER_01,15:21,15:21 - 15:22,Let's finish up.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+15:22,15:22 - 15:32,,,,15:22,15:22 - 15:32,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+15:32,15:32 - 15:35,The bear that is poking the monkey is bouncing a ball.,en,SPEAKER_01,15:32,15:32 - 15:35,The bear that is poking the monkey is bouncing a ball.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+15:35,15:35 - 15:44,,,,15:35,15:35 - 15:44,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+15:44,15:44 - 15:47,The rabbit that is washing the cat is wearing a ribbon.,en,SPEAKER_01,15:44,15:44 - 15:47,The rabbit that is washing the cat is wearing a ribbon.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+15:47,15:47 - 16:05,,,,15:47,15:47 - 16:05,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+16:05,16:05 - 16:07,The bird that is singing is pushing the turtle.,en,SPEAKER_01,16:05,16:05 - 16:07,The bird that is singing is pushing the turtle.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+16:07,16:07 - 16:24,,,,16:07,16:07 - 16:24,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+16:24,16:24 - 16:26,The rabbit that is eating is hitting the cat.,en,SPEAKER_01,16:24,16:24 - 16:26,The rabbit that is eating is hitting the cat.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+16:26,16:26 - 16:39,,,,16:26,16:26 - 16:39,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+16:39,16:39 - 16:41,The chicken is looking at the frog that is pointing.,en,SPEAKER_01,16:39,16:39 - 16:41,The chicken is looking at the frog that is pointing.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+16:41,16:41 - 16:57,,,,16:41,16:41 - 16:57,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+16:57,16:57 - 17:00,The chicken is looking at the frog that is pointing.,en,SPEAKER_01,16:57,16:57 - 17:00,The chicken is looking at the frog that is pointing.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+17:00,17:00 - 17:04,,,,17:00,17:00 - 17:04,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+17:04,17:04 - 17:05,我們又點擊不了了,zh,SPEAKER_03,17:04,17:04 - 17:05,我們又點擊不了了,zh,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+17:05,17:05 - 17:15,,,,17:05,17:05 - 17:15,又点不了了,zh,Speaker 4 Experimenter,No difference,00:00:00,5,TRUE,TRUE,TRUE
+17:15,17:15 - 17:17,麻烦您再试一下可以吗,zh,SPEAKER_09,17:15,17:15 - 17:17,麻烦您再试一下可以吗,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+17:17,17:17 - 17:19,然后请选这个绿色的,zh,SPEAKER_09,17:17,17:17 - 17:19,然后请先点这个绿色的,zh,Speaker 4 Experimenter,No difference,00:00:00,1,TRUE,FALSE,TRUE
+17:19,17:19 - 17:21,然后您可以点刚刚想点的,zh,SPEAKER_09,17:19,17:19 - 17:21,然后您可以点刚刚想点的,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+17:21,17:21 - 17:23,Ryan你刚刚想点哪个图片,zh,SPEAKER_09,17:21,17:21 - 17:23,Ryan你刚刚想点哪个图片,en + zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,TRUE,TRUE
+17:23,17:23 - 17:24,好 谢谢,zh,SPEAKER_09,17:23,17:23 - 17:24,诶 好 谢谢,zh,Speaker 4 Experimenter,No difference,00:00:00,1,TRUE,FALSE,TRUE
+17:24,17:24 - 17:27,,,,17:24,17:24 - 17:27,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+17:27,17:27 - 17:29,The duck is kicking the monkey that is waving.,en,SPEAKER_01,17:27,17:27 - 17:29,The duck is kicking the monkey that is waving.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+17:29,17:29 - 17:46,,,,17:29,17:29 - 17:46,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+17:46,17:46 - 17:48,The duck is kicking the monkey that is waving.,en,SPEAKER_01,17:46,17:46 - 17:48,The duck is kicking the monkey that is waving.,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+17:48,17:48 - 17:50,,,,17:48,17:48 - 17:50,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+17:50,17:50 - 17:50,Thank you.,en,SPEAKER_03,17:50,17:50 - 17:50,可以点吗,zh,Speaker 4 Experimenter,No difference,00:00:00,6,TRUE,TRUE,TRUE
+17:50,17:50 - 17:54,,,,17:50,17:50 - 17:54,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+17:54,17:54 - 17:57,"所以你不要按這個鼠標,你要旁邊就好",zh,SPEAKER_03,17:54,17:54 - 17:57,"所以你不要按這個鼠標,你要旁邊就好",zh,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+17:57,17:57 - 18:00,The farmer is chasing the cow that is wearing a scarf.,en,SPEAKER_01,17:57,17:57 - 18:00,The farmer is chasing the cow that is wearing a scarf.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+18:00,18:00 - 18:09,,,,18:00,18:00 - 18:09,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+18:09,18:09 - 18:09,[blank_audio],en,SPEAKER_07,18:09,18:09 - 18:09,对，点这样子,zh,Speaker 3 Parent,No difference,00:00:00,5,TRUE,TRUE,TRUE
+18:09,18:09 - 18:15,,,,18:09,18:09 - 18:15,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+18:15,18:15 - 18:18,The panda is brushing the pig that is carrying a bag.,en,SPEAKER_01,18:15,18:15 - 18:18,The panda is brushing the pig that is carrying a bag.,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+18:18,18:18 - 18:28,,,,18:18,18:18 - 18:28,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+18:28,18:28 - 18:32,Look at that! we're all done so puppy gets to eat his food!,en,SPEAKER_01,18:28,18:28 - 18:32,Look at that! we're all done so puppy gets to eat his food!,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+18:32,18:32 - 18:34,You did such a great job!,en,SPEAKER_01,18:32,18:32 - 18:34,You did such a great job!,en,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+18:34,18:34 - 18:37,,,,18:34,18:34 - 18:37,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+18:37,18:37 - 18:39,"Yay, you did such a great job.",en,SPEAKER_09,18:37,18:37 - 18:39,"Yay, you did such a great job.",en,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+18:39,18:39 - 18:41,,,,18:39,18:39 - 18:41,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+18:41,18:41 - 18:42,"Okay, ah.",en,SPEAKER_09,18:41,18:41 - 18:42,"Okay, ah.",en,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+18:42,18:42 - 18:44,所以这个问题是想请问一下,zh,SPEAKER_09,18:42,18:42 - 18:44,所以这个问题是想请问一下,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+18:44,18:44 - 18:48,在测试中妈妈有没有帮助ryan点击图片呢,zh,SPEAKER_09,18:44,18:44 - 18:48,在测试中妈妈有没有帮助ryan点击图片呢,en + zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,TRUE,TRUE
+18:48,18:48 - 18:50,,,,18:48,18:48 - 18:50,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+18:50,18:50 - 18:53,"没有教他答案,但是刚才有帮他点击了一下",zh,SPEAKER_09,18:50,18:50 - 18:53,"没有教他答案,但是刚才有帮他点击了一下",zh,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+18:53,18:53 - 18:55,,,,18:53,18:53 - 18:55,好的，那,zh,Speaker 4 Experimenter,No difference,00:00:00,3,TRUE,TRUE,TRUE
+18:55,18:55 - 18:56,I bet that's a no.,en,SPEAKER_09,18:55,18:55 - 18:56,你选no好吗,en + zh,Speaker 4 Experimenter,No difference,00:00:00,9,TRUE,TRUE,TRUE
+18:56,18:56 - 18:57,,,,18:56,18:56 - 18:57,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+18:57,18:57 - 18:58,[blank_audio],en,SPEAKER_09,18:57,18:57 - 18:58,[blank_audio],,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+18:58,18:58 - 18:59,[blank_audio],en,SPEAKER_09,18:58,18:58 - 18:59,[blank_audio],,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+18:59,18:59 - 19:00,あ、ママ、シェリー、ノー,ja,SPEAKER_09,18:59,18:59 - 19:00,帮妈妈选，点no,en + zh,Speaker 3 Parent,No difference,00:00:00,6,TRUE,TRUE,TRUE
+19:00,19:00 - 19:02,,,,19:00,19:00 - 19:02,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+19:02,19:02 - 19:03,"好,然後請回家",zh,SPEAKER_09,19:02,19:02 - 19:03,"好,然後請提交",zh,Speaker 4 Experimenter,No difference,00:00:00,0,TRUE,FALSE,TRUE
+19:03,19:03 - 19:04,,,,19:03,19:03 - 19:04,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+19:04,19:04 - 19:06,然后下面就是要玩中文游戏了,zh,SPEAKER_09,19:04,19:04 - 19:06,然后下面就是要玩中文游戏了,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+19:06,19:06 - 19:07,Rain你要休息吗,zh,SPEAKER_09,19:06,19:06 - 19:07,Ryan你要休息吗,en + zh,Speaker 4 Experimenter,No difference,00:00:00,0,TRUE,TRUE,TRUE
+19:07,19:07 - 19:09,,,,19:07,19:07 - 19:09,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+19:09,19:09 - 19:10,你觉得你需要休息吗,zh,SPEAKER_03,19:09,19:09 - 19:10,你觉得你需要休息吗,zh,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+19:10,19:10 - 19:12,,,,19:10,19:10 - 19:12,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+19:12,19:12 - 19:13,還是你要更快的,zh,SPEAKER_03,19:12,19:12 - 19:13,還是你要更快的完成,zh,Speaker 3 Parent,No difference,00:00:00,2,TRUE,FALSE,TRUE
+19:13,19:13 - 19:17,,,,19:13,19:13 - 19:17,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+19:17,19:17 - 19:18,Question marks,en,SPEAKER_09,19:17,19:17 - 19:18,,,,No difference,00:00:00,2,TRUE,FALSE,FALSE
+19:18,19:18 - 19:19,,,,19:18,19:18 - 19:19,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+19:19,19:19 - 19:21,那这里我来输入吧,zh,SPEAKER_09,19:19,19:19 - 19:21,那这里我来输入吧,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+19:21,19:21 - 19:23,因为刚刚你们好像不可以输入,zh,SPEAKER_09,19:21,19:21 - 19:23,因为刚刚你们好像不可以输入,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+19:23,19:23 - 19:24,,,,19:23,19:23 - 19:24,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+19:24,19:24 - 19:25,[blank_audio],en,SPEAKER_09,19:24,19:24 - 19:25,嗯,zh,Speaker 3 Parent,No difference,00:00:00,1,TRUE,TRUE,TRUE
+19:25,19:25 - 19:29,,,,19:25,19:25 - 19:29,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+19:29,19:29 - 19:31,(speaking in foreign language),en,SPEAKER_09,19:29,19:29 - 19:31,好，然后,zh,Speaker 4 Experimenter,No difference,00:00:00,7,TRUE,TRUE,TRUE
+19:31,19:31 - 19:34,,,,19:31,19:31 - 19:34,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+19:34,19:34 - 19:36,(speaking in foreign language),en,SPEAKER_09,19:34,19:34 - 19:36,下面请ryan你来点继续,en + zh,Speaker 4 Experimenter,No difference,00:00:00,11,TRUE,TRUE,TRUE
+19:36,19:36 - 19:40,,,,19:36,19:36 - 19:40,"speaker 4: 就可以开始中文游戏
+speaker 3: 刚才那样子那么快",zh,Speaker 5 Multiple Speakers,No difference,00:00:00,19,TRUE,TRUE,TRUE
+19:40,19:40 - 19:40,你就继续吧,zh,SPEAKER_03,19:40,19:40 - 19:40,你就继续吧,zh,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+19:40,19:40 - 19:44,,,,19:40,19:40 - 19:44,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+19:44,19:44 - 19:45,這是中文哦,zh,SPEAKER_03,19:44,19:44 - 19:45,這是中文哦,zh,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+19:45,19:45 - 19:48,,,,19:45,19:45 - 19:48,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+19:48,19:48 - 19:51,歡迎來到聽句子選圖片的遊戲,zh,SPEAKER_04,19:48,19:48 - 19:51,歡迎來到聽句子選圖片的遊戲,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+19:51,19:51 - 19:56,接下来你需要根据听到的句子来选择出正确的图片,zh,SPEAKER_04,19:51,19:51 - 19:56,接下来你需要根据听到的句子来选择出正确的图片,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+19:56,19:56 - 19:57,,,,19:56,19:56 - 19:57,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+19:57,19:57 - 19:58,我们先来试一下吧,zh,SPEAKER_04,19:57,19:57 - 19:58,我们先来试一下吧,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+19:58,19:58 - 19:59,,,,19:58,19:58 - 19:59,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+19:59,19:59 - 20:00,准备好了吗,zh,SPEAKER_04,19:59,19:59 - 20:00,准备好了吗,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+20:00,20:00 - 20:02,,,,20:00,20:00 - 20:02,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+20:02,20:02 - 20:04,藍色的蛇在吃蘋果,zh,SPEAKER_04,20:02,20:02 - 20:04,藍色的蛇在吃蘋果,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+20:04,20:04 - 20:11,,,,20:04,20:04 - 20:11,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+20:11,20:11 - 20:13,"太棒了,让我们继续吧",zh,SPEAKER_04,20:11,20:11 - 20:13,"太棒了,让我们继续吧",zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+20:13,20:13 - 20:14,,,,20:13,20:13 - 20:14,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+20:14,20:14 - 20:17,请点击开始按钮进入,zh,SPEAKER_04,20:14,20:14 - 20:17,请点击开始按钮进入,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+20:17,20:17 - 20:22,,,,20:17,20:17 - 20:22,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+20:22,20:22 - 20:24,乌龟在椅子中间,zh,SPEAKER_04,20:22,20:22 - 20:24,乌龟在椅子中间,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+20:24,20:24 - 20:34,,,,20:24,20:24 - 20:34,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+20:34,20:34 - 20:36,小鴨子在桌子旁邊,zh,SPEAKER_04,20:34,20:34 - 20:36,小鴨子在桌子旁邊,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+20:36,20:36 - 20:47,,,,20:36,20:36 - 20:47,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+20:47,20:47 - 20:49,風箏在飛機下面,zh,SPEAKER_04,20:47,20:47 - 20:49,風箏在飛機下面,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+20:49,20:49 - 20:57,,,,20:49,20:49 - 20:57,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+20:57,20:57 - 21:00,場景錄在椅子後面,zh,SPEAKER_04,20:57,20:57 - 21:00,长颈鹿在椅子後面,zh,Speaker 1 System,No difference,00:00:00,0,TRUE,FALSE,TRUE
+21:00,21:00 - 21:07,,,,21:00,21:00 - 21:07,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+21:07,21:07 - 21:10,所有的老奶奶都提着水桶,zh,SPEAKER_04,21:07,21:07 - 21:10,所有的老奶奶都提着水桶,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+21:10,21:10 - 21:17,,,,21:10,21:10 - 21:17,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+21:17,21:17 - 21:20,所有的小猪都在爬梯子,zh,SPEAKER_04,21:17,21:17 - 21:20,所有的小猪都在爬梯子,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+21:20,21:20 - 21:26,,,,21:20,21:20 - 21:26,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+21:26,21:26 - 21:29,所有的女孩都在推箱子,zh,SPEAKER_04,21:26,21:26 - 21:29,所有的女孩都在推箱子,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+21:29,21:29 - 21:35,,,,21:29,21:29 - 21:35,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+21:35,21:35 - 21:38,所有的男孩都在玩球,zh,SPEAKER_04,21:35,21:35 - 21:38,所有的男孩都在玩球,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+21:38,21:38 - 21:44,,,,21:38,21:38 - 21:44,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+21:44,21:44 - 21:46,有的小朋友在吃苹果,zh,SPEAKER_04,21:44,21:44 - 21:46,有的小朋友在吃苹果,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+21:46,21:46 - 21:52,,,,21:46,21:46 - 21:52,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+21:52,21:52 - 21:54,有的小狗在啃骨头,zh,SPEAKER_04,21:52,21:52 - 21:54,有的小狗在啃骨头,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+21:54,21:54 - 22:02,,,,21:54,21:54 - 22:02,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+22:02,22:02 - 22:04,要与这一面齐,zh,SPEAKER_04,22:02,22:02 - 22:04,有的动物举着一面旗,zh,Speaker 1 System,No difference,00:00:00,3,TRUE,FALSE,TRUE
+22:04,22:04 - 22:12,,,,22:04,22:04 - 22:12,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+22:12,22:12 - 22:12,[blank_audio],en,SPEAKER_08,22:12,22:12 - 22:12,[blank_audio],,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+22:12,22:12 - 22:14,,,,22:12,22:12 - 22:14,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+22:14,22:14 - 22:16,有小男孩在吃香蕉,zh,SPEAKER_04,22:14,22:14 - 22:16,有小男孩在吃香蕉,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+22:16,22:16 - 22:19,,,,22:16,22:16 - 22:19,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+22:19,22:19 - 22:21,小朋友太棒了,zh,SPEAKER_04,22:19,22:19 - 22:21,小朋友太棒了,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+22:21,22:21 - 22:23,小狗已经得到了一些好吃的,zh,SPEAKER_04,22:21,22:21 - 22:23,小狗已经得到了一些好吃的,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+22:23,22:23 - 22:25,让我们继续吧,zh,SPEAKER_04,22:23,22:23 - 22:25,让我们继续吧,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+22:25,22:25 - 22:27,这样小狗就可以得到更多好吃的了,zh,SPEAKER_04,22:25,22:25 - 22:27,这样小狗就可以得到更多好吃的了,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+22:27,22:27 - 22:29,,,,22:27,22:27 - 22:29,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+22:29,22:29 - 22:30,I can't.,en,SPEAKER_07,22:29,22:29 - 22:30,,,,No difference,00:00:00,3,TRUE,FALSE,FALSE
+22:30,22:30 - 22:31,I just need to shoot.,en,SPEAKER_07,22:30,22:30 - 22:31,那就继续,zh,Speaker 3 Parent,No difference,00:00:00,9,TRUE,TRUE,TRUE
+22:31,22:31 - 22:31,,en,SPEAKER_07,22:31,22:31 - 22:31,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+22:31,22:31 - 22:32,,,,22:31,22:31 - 22:32,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+22:32,22:32 - 22:33,變形uled,zh,SPEAKER_07,22:32,22:32 - 22:33,unclear,zh,Speaker 2 Child,No difference,00:00:00,2,TRUE,FALSE,TRUE
+22:33,22:33 - 22:34,叔dis,zh,SPEAKER_07,22:33,22:33 - 22:34,unclear,zh,Speaker 2 Child,No difference,00:00:00,1,TRUE,FALSE,TRUE
+22:34,22:34 - 22:34,,zh,SPEAKER_07,22:34,22:34 - 22:34,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+22:34,22:34 - 22:34,,zh,SPEAKER_07,22:34,22:34 - 22:34,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+22:34,22:34 - 22:38,,,,22:34,22:34 - 22:38,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+22:38,22:38 - 22:40,熊貓被兔子打了,zh,SPEAKER_04,22:38,22:38 - 22:40,熊貓被兔子打了,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+22:40,22:40 - 22:50,,,,22:40,22:40 - 22:50,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+22:50,22:50 - 22:52,青蛙被老鼠压着,zh,SPEAKER_04,22:50,22:50 - 22:52,青蛙被老鼠压着,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+22:52,22:52 - 23:03,,,,22:52,22:52 - 23:03,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+23:03,23:03 - 23:04,烏龜被小貓綁著,zh,SPEAKER_05,23:03,23:03 - 23:04,烏龜被小貓綁著,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+23:04,23:04 - 23:20,,,,23:04,23:04 - 23:20,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+23:20,23:20 - 23:22,兔子被小熊抱着,zh,SPEAKER_06,23:20,23:20 - 23:22,兔子被小熊抱着,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+23:22,23:22 - 23:31,,,,23:22,23:22 - 23:31,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+23:31,23:31 - 23:33,猴子被小猪绑着,zh,SPEAKER_04,23:31,23:31 - 23:33,猴子被小猪绑着,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+23:33,23:33 - 23:42,,,,23:33,23:33 - 23:42,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+23:42,23:42 - 23:44,小羊被河马背着,zh,SPEAKER_05,23:42,23:42 - 23:44,小羊被河马背着,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+23:44,23:44 - 23:53,,,,23:44,23:44 - 23:53,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+23:53,23:53 - 23:55,斑马被老虎压着,zh,SPEAKER_04,23:53,23:53 - 23:55,斑马被老虎压着,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+23:55,23:55 - 24:05,,,,23:55,23:55 - 24:05,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+24:05,24:05 - 24:07,小牛被熊貓推了,zh,SPEAKER_05,24:05,24:05 - 24:07,小牛被熊貓推了,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+24:07,24:07 - 24:19,,,,24:07,24:07 - 24:19,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+24:19,24:19 - 24:21,打小羊的松鼠在招手,zh,SPEAKER_04,24:19,24:19 - 24:21,打小羊的松鼠在招手,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+24:21,24:21 - 24:32,,,,24:21,24:21 - 24:32,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+24:32,24:32 - 24:34,咬小豬的猴自在咬尾巴,zh,SPEAKER_04,24:32,24:32 - 24:34,咬小豬的猴子在摇尾巴,zh,Speaker 1 System,No difference,00:00:00,0,TRUE,FALSE,TRUE
+24:34,24:34 - 24:39,,,,24:34,24:34 - 24:39,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+24:39,24:39 - 24:42,"好,我們再試一次",zh,SPEAKER_09,24:39,24:39 - 24:42,"好,我們再試一次",zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+24:42,24:42 - 24:43,"不好意思,這裡好像",zh,SPEAKER_09,24:42,24:42 - 24:43,"不好意思,這裡好像",zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+24:43,24:43 - 24:44,,,,24:43,24:43 - 24:44,,zh,Speaker 6 Others,No difference,00:00:00,0,FALSE,TRUE,TRUE
+24:44,24:44 - 24:44,I'm trying.,en,SPEAKER_09,24:44,24:44 - 24:44,又出了问题,zh,Speaker 4 Experimenter,No difference,00:00:00,8,TRUE,TRUE,TRUE
+24:44,24:44 - 24:45,,,,24:44,24:44 - 24:45,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+24:45,24:45 - 24:46,剛才跳了一題是嗎,zh,SPEAKER_02,24:45,24:45 - 24:46,剛才跳了一題是嗎,zh,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
+24:46,24:46 - 24:47,,,,24:46,24:46 - 24:47,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+24:47,24:47 - 24:50,"刚刚没有跳,只是这边好像",zh,SPEAKER_09,24:47,24:47 - 24:50,"刚刚没有跳,只是这边好像",zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+24:50,24:50 - 24:52,您再试一下可以点吗,zh,SPEAKER_09,24:50,24:50 - 24:52,您再试一下可以点吗,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+24:52,24:52 - 24:55,,,,24:52,24:52 - 24:55,"speaker 3:嗯
+speaker 4:哦好",zh,Speaker 5 Multiple Speakers,No difference,00:00:00,5,TRUE,TRUE,TRUE
+24:55,24:55 - 24:57,請先點擊那個綠色的,zh,SPEAKER_09,24:55,24:55 - 25:00,請先點擊那個綠色的,zh,Speaker 4 Experimenter,No difference,00:00:03,0,FALSE,FALSE,TRUE
+24:57,24:57 - 25:08,,,,25:00,25:00 - 25:08,"speaker 4:可以再听一遍哦
+speaker 3:好",zh,Speaker 5 Multiple Speakers,00:03,00:00:03,10,TRUE,TRUE,TRUE
+25:08,25:08 - 25:11,咬小猪的猴子在咬尾巴,zh,SPEAKER_06,25:08,25:08 - 25:11,咬小猪的猴子在摇尾巴,zh,Speaker 1 System,No difference,00:00:00,0,TRUE,FALSE,TRUE
+25:11,25:11 - 25:31,,,,25:11,25:11 - 25:31,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+25:31,25:31 - 25:34,親奶奶的女孩在看書,zh,SPEAKER_05,25:31,25:31 - 25:34,親奶奶的女孩在看書,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+25:34,25:34 - 25:48,,,,25:34,25:34 - 25:48,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+25:48,25:48 - 25:49,小貓在撇,zh,SPEAKER_06,25:48,25:48 - 25:49,小貓在舔,en,Speaker 1 System,No difference,00:00:00,0,TRUE,TRUE,TRUE
+25:49,25:49 - 25:51,招手的小狗,zh,SPEAKER_04,25:49,25:49 - 25:51,在招手的小狗,zh,Speaker 1 System,No difference,00:00:00,1,TRUE,FALSE,TRUE
+25:51,25:51 - 26:03,,,,25:51,25:51 - 26:03,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+26:03,26:03 - 26:05,小猪在踢摇尾巴的狐狸,zh,SPEAKER_06,26:03,26:03 - 26:05,小猪在踢摇尾巴的狐狸,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+26:05,26:05 - 26:16,,,,26:05,26:05 - 26:16,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+26:16,26:16 - 26:16,奶奶推了,zh,SPEAKER_05,26:16,26:16 - 26:16,奶奶推了,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+26:16,26:16 - 26:18,在看书的女孩儿,zh,SPEAKER_04,26:16,26:16 - 26:18,在看书的女孩儿,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+26:18,26:18 - 26:27,,,,26:18,26:18 - 26:27,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+26:27,26:27 - 26:29,非妹妹的弟弟在畫畫,zh,SPEAKER_05,26:27,26:27 - 26:29,背妹妹的弟弟在畫畫,zh,Speaker 1 System,No difference,00:00:00,0,TRUE,FALSE,TRUE
+26:29,26:29 - 26:47,,,,26:29,26:29 - 26:47,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+26:47,26:47 - 26:49,非妹妹的弟弟在畫畫,zh,SPEAKER_05,26:47,26:47 - 26:49,背妹妹的弟弟在畫畫,zh,Speaker 1 System,No difference,00:00:00,0,TRUE,FALSE,TRUE
+26:49,26:49 - 27:00,,,,26:49,26:49 - 27:00,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+27:00,27:00 - 27:03,小牛背著在畫畫的鱷魚,zh,SPEAKER_04,27:00,27:00 - 27:03,小牛背著在畫畫的鱷魚,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+27:03,27:03 - 27:08,,,,27:03,27:03 - 27:08,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+27:08,27:08 - 27:10,你做的太棒了,zh,SPEAKER_04,27:08,27:08 - 27:10,你做的太棒了,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+27:10,27:10 - 27:12,我们已经完成一半了,zh,SPEAKER_04,27:10,27:10 - 27:12,我们已经完成一半了,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+27:12,27:12 - 27:14,小狗又得到了一个玩具呢,zh,SPEAKER_04,27:12,27:12 - 27:14,小狗又得到了一个玩具呢,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+27:14,27:14 - 27:16,他非常开心,zh,SPEAKER_04,27:14,27:14 - 27:16,他非常开心,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+27:16,27:16 - 27:17,让我们继续吧,zh,SPEAKER_04,27:16,27:16 - 27:17,让我们继续吧,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+27:17,27:17 - 27:20,这样小狗就可以得到更多玩具了,zh,SPEAKER_04,27:17,27:17 - 27:20,这样小狗就可以得到更多玩具了,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+27:20,27:20 - 27:25,,,,27:20,27:20 - 27:25,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+27:25,27:25 - 27:29,这次我们要来玩一个帮小狗找图片的游戏,zh,SPEAKER_04,27:25,27:25 - 27:29,这次我们要来玩一个帮小狗找图片的游戏,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+27:29,27:29 - 27:31,小狗的中文不好,zh,SPEAKER_04,27:29,27:29 - 27:31,小狗的中文不好,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+27:31,27:31 - 27:33,他不会说的词都会说something,zh,SPEAKER_04,27:31,27:31 - 27:33,他不会说的词都会说something,en + zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+27:33,27:33 - 27:34,,,,27:33,27:33 - 27:34,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+27:34,27:34 - 27:37,你的任务就是帮他找出他想要的那个图片,zh,SPEAKER_04,27:34,27:34 - 27:37,你的任务就是帮他找出他想要的那个图片,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+27:37,27:37 - 27:38,,,,27:37,27:37 - 27:38,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+27:38,27:38 - 27:39,準備好了嗎?,zh,SPEAKER_04,27:38,27:38 - 27:39,準備好了嗎?,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+27:39,27:39 - 27:44,,,,27:39,27:39 - 27:44,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+27:44,27:44 - 27:46,小狗是还要一瓶something,zh,SPEAKER_04,27:44,27:44 - 27:46,小狗说他要一瓶something,en + zh,Speaker 1 System,No difference,00:00:00,0,TRUE,TRUE,TRUE
+27:46,27:46 - 27:54,,,,27:46,27:46 - 27:54,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+27:54,27:54 - 27:56,"太棒了,让我们继续吧",zh,SPEAKER_04,27:54,27:54 - 27:56,"太棒了,让我们继续吧",zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+27:56,27:56 - 27:57,,,,27:56,27:56 - 27:57,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+27:57,27:57 - 28:00,请点击开始按钮进入下一题,zh,SPEAKER_04,27:57,27:57 - 28:00,请点击开始按钮进入下一题,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+28:00,28:00 - 28:07,,,,28:00,28:00 - 28:07,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+28:07,28:07 - 28:09,小狗说他要一条something,zh,SPEAKER_04,28:07,28:07 - 28:09,小狗说他要一条something,en + zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+28:09,28:09 - 28:17,,,,28:09,28:09 - 28:17,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+28:17,28:17 - 28:19,小狗说他要一只something,zh,SPEAKER_04,28:17,28:17 - 28:19,小狗说他要一只something,en + zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+28:19,28:19 - 28:29,,,,28:19,28:19 - 28:29,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+28:29,28:29 - 28:29,小狗说它要吃药,zh,SPEAKER_06,28:29,28:29 - 28:29,小狗说他要一张something,en + zh,Speaker 1 System,No difference,00:00:00,1,TRUE,TRUE,TRUE
+28:29,28:29 - 28:41,,,,28:29,28:29 - 28:41,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+28:41,28:41 - 28:42,Bah bah ba ba bah,en,SPEAKER_07,28:41,28:41 - 28:42,unclear,zh,Speaker 6 Others,No difference,00:00:00,4,TRUE,TRUE,TRUE
+28:42,28:42 - 28:44,Do you want me?,en,SPEAKER_07,28:42,28:42 - 28:44,unclear,zh,Speaker 6 Others,No difference,00:00:00,3,TRUE,TRUE,TRUE
+28:44,28:44 - 28:46,,,,28:44,28:44 - 28:46,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+28:46,28:46 - 28:49,小狗说他要一块香粉,zh,SPEAKER_04,28:46,28:46 - 28:49,小狗说他要一块something,en + zh,Speaker 1 System,No difference,00:00:00,3,TRUE,TRUE,TRUE
+28:49,28:49 - 28:50,,,,28:49,28:49 - 28:50,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+28:50,28:50 - 28:50,[blank_audio],en,SPEAKER_07,28:50,28:50 - 28:50,[blank_audio],,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+28:50,28:50 - 28:51,,,,28:50,28:50 - 28:51,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+28:51,28:51 - 28:52,미안해,ko,SPEAKER_07,28:51,28:51 - 28:52,,,,No difference,00:00:00,0,TRUE,FALSE,FALSE
+28:52,28:52 - 28:54,,,,28:52,28:52 - 28:54,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+28:54,28:54 - 28:55,I want to go to the wash.,en,SPEAKER_07,28:54,28:54 - 28:55,unclear,en,Speaker 6 Others,No difference,00:00:00,6,TRUE,FALSE,TRUE
+28:55,28:55 - 28:57,,,,28:55,28:55 - 28:57,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+28:57,28:57 - 28:57,說他要贏,zh,SPEAKER_07,28:57,28:57 - 28:57,,,,No difference,00:00:00,4,TRUE,FALSE,FALSE
+28:57,28:57 - 28:59,说他要一辆something,zh,SPEAKER_05,28:57,28:57 - 28:59,小狗说他要一辆something,en + zh,Speaker 1 System,No difference,00:00:00,2,TRUE,TRUE,TRUE
+28:59,28:59 - 29:01,,,,28:59,28:59 - 29:01,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+29:01,29:01 - 29:01,[blank_audio],en,SPEAKER_08,29:01,29:01 - 29:01,[blank_audio],,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+29:01,29:01 - 29:07,,,,29:01,29:01 - 29:07,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+29:07,29:07 - 29:09,小狗说它要一根something,zh,SPEAKER_06,29:07,29:07 - 29:09,小狗说它要一根something,en + zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+29:09,29:09 - 29:17,,,,29:09,29:09 - 29:17,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+29:17,29:17 - 29:20,小狗说他要一台something,zh,SPEAKER_06,29:17,29:17 - 29:20,小狗说他要一台something,en + zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+29:20,29:20 - 29:36,,,,29:20,29:20 - 29:36,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+29:36,29:36 - 29:38,小狗说他要一台something,zh,SPEAKER_06,29:36,29:36 - 29:38,小狗说他要一台something,en + zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+29:38,29:38 - 29:47,,,,29:38,29:38 - 29:47,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+29:47,29:47 - 29:49,小狗说他要一把something,zh,SPEAKER_06,29:47,29:47 - 29:49,小狗说他要一把something,en + zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+29:49,29:49 - 30:05,,,,29:49,29:49 - 30:05,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+30:05,30:05 - 30:07,小狗说他要一把something,zh,SPEAKER_04,30:05,30:05 - 30:07,小狗说他要一把something,en + zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+30:07,30:07 - 30:13,,,,30:07,30:07 - 30:13,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+30:13,30:13 - 30:15,小朋友太棒了,zh,SPEAKER_04,30:13,30:13 - 30:15,小朋友太棒了,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+30:15,30:15 - 30:18,小狗已经得到了一些好吃的和好玩的,zh,SPEAKER_04,30:15,30:15 - 30:18,小狗已经得到了一些好吃的和好玩的,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+30:18,30:18 - 30:20,让我们继续吧,zh,SPEAKER_04,30:18,30:18 - 30:20,让我们继续吧,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+30:20,30:20 - 30:22,这样小狗就可以得到更多了,zh,SPEAKER_04,30:20,30:20 - 30:22,这样小狗就可以得到更多了,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+30:22,30:22 - 30:24,,,,30:22,30:22 - 30:24,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+30:24,30:24 - 30:25,"Oh, yes, i'm here.",en,SPEAKER_07,30:24,30:24 - 30:25,unclear,en,Speaker 6 Others,No difference,00:00:00,4,TRUE,FALSE,TRUE
+30:25,30:25 - 30:30,,,,30:25,30:25 - 30:30,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+30:30,30:30 - 30:33,小狗说他要一条something,zh,SPEAKER_04,30:30,30:30 - 30:33,小狗说他要一条something,en + zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+30:33,30:33 - 30:38,,,,30:33,30:33 - 30:38,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+30:38,30:38 - 30:39,(laughing),en,SPEAKER_04,30:38,30:38 - 30:39,,,,No difference,00:00:00,1,TRUE,FALSE,FALSE
+30:39,30:39 - 30:42,,,,30:39,30:39 - 30:42,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+30:42,30:42 - 30:44,小狗说他要一只something,zh,SPEAKER_04,30:42,30:42 - 30:44,小狗说他要一只something,en + zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+30:44,30:44 - 30:54,,,,30:44,30:44 - 30:54,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+30:54,30:54 - 30:56,小狗说他要一张something。,zh,SPEAKER_04,30:54,30:54 - 30:56,小狗说他要一张something。,en + zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+30:56,30:56 - 31:05,,,,30:56,30:56 - 31:05,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+31:05,31:05 - 31:07,小狗说它要一块something,zh,SPEAKER_04,31:05,31:05 - 31:07,小狗说它要一块something,en + zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+31:07,31:07 - 31:17,,,,31:07,31:07 - 31:17,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+31:17,31:17 - 31:19,小狗说他要一辆something,zh,SPEAKER_04,31:17,31:17 - 31:19,小狗说他要一辆something,en + zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+31:19,31:19 - 31:28,,,,31:19,31:19 - 31:28,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+31:28,31:28 - 31:30,小狗说他要一根something,zh,SPEAKER_06,31:28,31:28 - 31:30,小狗说他要一根something,en + zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+31:30,31:30 - 31:39,,,,31:30,31:30 - 31:39,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+31:39,31:39 - 31:41,小狗说他要一台something,zh,SPEAKER_04,31:39,31:39 - 31:41,小狗说他要一台something,en + zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+31:41,31:41 - 31:50,,,,31:41,31:41 - 31:50,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+31:50,31:50 - 31:52,小狗说他要一把something,zh,SPEAKER_04,31:50,31:50 - 31:52,小狗说他要一把something,en + zh,Speaker 1 System,No difference,00:00:00,0,FALSE,TRUE,TRUE
+31:52,31:52 - 31:57,,,,31:52,31:52 - 31:57,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+31:57,31:57 - 32:01,"恭喜小朋友,你已经完成所有的中文游戏了",zh,SPEAKER_04,31:57,31:57 - 32:01,"恭喜小朋友,你已经完成所有的中文游戏了",zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+32:01,32:01 - 32:04,现在小狗可以开始玩这些玩具了,zh,SPEAKER_04,32:01,32:01 - 32:04,现在小狗可以开始玩这些玩具了,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+32:04,32:04 - 32:05,你做的真棒,zh,SPEAKER_04,32:04,32:04 - 32:05,你做的真棒,zh,Speaker 1 System,No difference,00:00:00,0,FALSE,FALSE,TRUE
+32:05,32:05 - 32:07,,,,32:05,32:05 - 32:07,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+32:07,32:07 - 32:09,太棒了 ryan 恭喜你,zh,SPEAKER_09,32:07,32:07 - 32:09,太棒了 ryan 恭喜你,en + zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,TRUE,TRUE
+32:09,32:09 - 32:10,好 請點提交,zh,SPEAKER_09,32:09,32:09 - 32:10,好 請點提交,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+32:10,32:10 - 32:15,,,,32:10,32:10 - 32:15,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+32:15,32:15 - 32:20,"然後ryan,我想問問你在這個在中文遊戲裡媽媽有幫你點擊圖片嗎?",zh,SPEAKER_09,32:15,32:15 - 32:20,"然後ryan,我想問問你在這個在中文遊戲裡媽媽有幫你點擊圖片嗎?",en + zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,TRUE,TRUE
+32:20,32:20 - 32:22,,,,32:20,32:20 - 32:22,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+32:22,32:22 - 32:24,還是都是你自己做的呀,zh,SPEAKER_09,32:22,32:22 - 32:24,還是都是你自己做的呀,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+32:24,32:24 - 32:25,,,,32:24,32:24 - 32:25,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+32:25,32:25 - 32:26,That's what you do.,en,SPEAKER_07,32:25,32:25 - 32:26,自己做的,zh,Speaker 2 Child,No difference,00:00:00,9,TRUE,TRUE,TRUE
+32:26,32:26 - 32:27,,,,32:26,32:26 - 32:27,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+32:27,32:27 - 32:29,那請你幫我點一下yes,zh,SPEAKER_09,32:27,32:27 - 32:29,那請你幫我點一下yes,en + zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,TRUE,TRUE
+32:29,32:29 - 32:35,,,,32:29,32:29 - 32:35,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+32:35,32:35 - 32:36,Help.,en,SPEAKER_09,32:35,32:35 - 32:36,好,zh,Speaker 4 Experimenter,No difference,00:00:00,2,TRUE,TRUE,TRUE
+32:36,32:36 - 32:37,,,,32:36,32:36 - 32:37,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+32:37,32:37 - 32:37,可以点吗,zh,SPEAKER_09,32:37,32:37 - 32:37,可以点吗,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+32:37,32:37 - 32:44,,,,32:37,32:37 - 32:44,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+32:44,32:44 - 32:46,好 然後請你幫我點提交,zh,SPEAKER_09,32:44,32:44 - 32:46,好 然後請你幫我點提交,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+32:46,32:46 - 32:47,,,,32:46,32:46 - 32:47,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+32:47,32:47 - 32:48,[blank_audio],en,SPEAKER_09,32:47,32:47 - 32:48,[blank_audio],,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+32:48,32:48 - 32:49,,,,32:48,32:48 - 32:49,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+32:49,32:49 - 32:50,"好,謝謝",zh,SPEAKER_09,32:49,32:49 - 32:50,"好,謝謝",zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+32:50,32:50 - 32:51,謝謝你,zh,SPEAKER_09,32:50,32:50 - 32:51,謝謝你,zh,Speaker 4 Experimenter,No difference,00:00:00,0,FALSE,FALSE,TRUE
+32:51,32:51 - 32:53,,,,32:51,32:51 - 32:53,,,,Absolute time difference:,00:00:00,Text difference word count:,FALSE,FALSE,FALSE
+32:53,32:53 - 32:53,谢谢,zh,SPEAKER_09,32:53,32:53 - 32:53,谢谢,zh,Speaker 3 Parent,No difference,00:00:00,0,FALSE,FALSE,TRUE
